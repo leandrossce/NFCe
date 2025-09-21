@@ -3,7 +3,7 @@ Principais instalações (dependências)
 Recomendado: Python 3.8+ (testado com 3.10+).
 Via pip (Windows / Linux / macOS)
 
-# núcleo
+# Núcleo
 pip install lxml reportlab qrcode[pil] pillow
 
 # Excel (opcional, só se for exportar planilha)
